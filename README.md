@@ -1,4 +1,4 @@
-# SCRUD
+# SCRUD (Search-Create-Read-Update-Delete)
 Java program to manage student records.
 Display a menu of options to the screen with the following options:
 
